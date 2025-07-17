@@ -7,6 +7,7 @@ const useCountdown = (date) => {
     const [minute, setMinute] = useState();
     const [second, setSecond] = useState();
 
+    
     const countdown = () => {
         const countDate = new Date(date).getTime();
         const now = new Date().getTime();
