@@ -19,8 +19,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 https://arielesilvaa.github.io/ano-novo/
 
-![Captura de Tela 2025-03-15 às 17 04 13](https://github.com/user-attachments/assets/adfe3bf8-62b9-432c-8c71-735c4f510d94)
 
+![Uploading Captura de Tela 2025-07-16 às 23.09.35.png…]()
 
 
 
